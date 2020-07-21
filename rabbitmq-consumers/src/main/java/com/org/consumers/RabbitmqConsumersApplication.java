@@ -9,7 +9,7 @@ public class RabbitmqConsumersApplication {
     public static void main(String[] args) {
         SpringApplication.run(RabbitmqConsumersApplication.class, args);
         System.out.println("==========我是消费者启动=======");
-        System.out.printf("提交自己的代码2233");
+        System.out.printf("天青色等烟");
     }
 
 
