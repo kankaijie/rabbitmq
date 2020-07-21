@@ -11,4 +11,5 @@ public class RabbitmqConsumersApplication {
         System.out.println("==========我是消费者启动=======");
     }
 
+
 }
