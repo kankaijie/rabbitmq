@@ -18,5 +18,6 @@ public class CancelOrderReceiver {
         LOGGER.info("消息被消费成功");
         LOGGER.info("process orderId:{}",orderId);
         System.out.printf("测试");
+
     }
 }
